@@ -1,0 +1,31 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^5.0.0",
+    "electron-chromedriver": "^5.0.0-beta.1"
+  },
+  "dependencies": {
+    "command": "0.0.5",
+    "drag-drop": "^4.2.0",
+    "electron-drag-drop": "^1.1.0",
+    "jquery": "^3.4.1",
+    "vue": "^2.6.10",
+    "vue-cli": "^2.9.6"
+  }
+}
